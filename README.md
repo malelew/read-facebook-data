@@ -1,5 +1,5 @@
 # read-facebook-data FKA: ucbmeft-data
-This started out as a look at the Berkley meme FB group membership after the
+This started out as a project looking at the Berkley meme FB group membership after the
 moderators decided to limit further membership to Cal students and alumni.
 The project ran into complications with FB api access permissions but the
 read-data.py file is still useful for gathering Facebook data.
