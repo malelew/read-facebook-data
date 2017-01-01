@@ -14,6 +14,6 @@ Before exeucting make sure to include a facebook api access token as detailed
 here, https://developers.facebook.com/docs/facebook-login/access-tokens. Also
 the FB_ID_COLUMN variable corressponds with the column containing the FB ids.
 
-If you would rather look into other data and relations than you can adjust the
-get_object with anything present in the documentation:
+If you would rather look into other data and relations than you can adjust
+get_object with most of the functions present in Facebook python module documentation:
 http://facebook-sdk.readthedocs.io/en/latest/api.html
